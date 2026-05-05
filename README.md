@@ -1,4 +1,4 @@
-# Teste Técnico - Construtora Guimarães
+# Teste Técnico - Grupo Guimarães
 > Sistema de Controle de Ponto e Fechamento Financeiro.
 
 ##  Descrição do Projeto

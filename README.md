@@ -6,7 +6,7 @@ Este projeto apresenta a solução para o desafio técnico de gestão de colabor
 
 ---
 
-## 🏗️ Parte 1: Arquitetura e Regras de Negócio
+##  Parte 1: Arquitetura e Regras de Negócio
 
 ### 1. Modelagem de Dados
 Para garantir escalabilidade, a estrutura proposta separa os dados cadastrais das regras contratuais:
@@ -19,7 +19,7 @@ A solução proposta utiliza o conceito de **Provisão Contábil**.
 
 ---
 
-## 💻 Parte 2: Desafio de Lógica (Python)
+##  Parte 2: Desafio de Lógica (Python)
 
 ### Tecnologias Utilizadas
 * **Linguagem:** Python 3.10+

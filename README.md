@@ -27,7 +27,7 @@ A solução proposta utiliza o conceito de **Provisão Contábil**.
 
 ### Como Executar
 1. Certifique-se de ter o Python instalado.
-2. Baixe o arquivo `solucao.py`.
+2. Baixe o arquivo `desafio.py`.
 3. Execute o comando:
    ```bash
-   python solucao.py
+   python desafio.py

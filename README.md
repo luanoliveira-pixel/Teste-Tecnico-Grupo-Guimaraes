@@ -1,7 +1,7 @@
 # Teste Técnico - Construtora Guimarães
 > Sistema de Controle de Ponto e Fechamento Financeiro.
 
-## 📋 Descrição do Projeto
+##  Descrição do Projeto
 Este projeto apresenta a solução para o desafio técnico de gestão de colaboradores (CLT, PJ e Diaristas). A solução contempla o desenho da arquitetura de dados e a implementação da lógica de cálculo de pagamentos.
 
 ---
